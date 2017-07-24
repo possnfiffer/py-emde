@@ -2,7 +2,6 @@ ndata = []
 with open('data/bmp180_20160201.dat') as f:
     for line in f:
         ndata.append(line.split(" "))
-ndata[2][-1].strip()
 
 flist = []
 for l in ndata:
