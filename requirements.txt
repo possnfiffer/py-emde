@@ -1,1 +1,4 @@
+jupyter==1.0.0
+jupyter-notebook-gist==0.4.0
+pandas==0.20.3
 sparkpost==1.3.5
